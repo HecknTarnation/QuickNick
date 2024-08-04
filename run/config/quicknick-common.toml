@@ -1,0 +1,10 @@
+#Permission level needed to run the command.
+#Range: 0 ~ 2
+PERMISSION_NEEDED = 1
+#Removes click events from nicknames.
+removeClickEvent = false
+#Removes insertion events from nicknames.
+removeInsertions = false
+#Removes hover events from nicknames.
+removeHoverEvent = false
+
